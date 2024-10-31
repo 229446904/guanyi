@@ -1,0 +1,1018 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<elements section_no_type="一" question_no_type="1" section_font_size="14px" question_font_size="14px" show_section_score="1" show_question_score="1" paragraph_spacing="10px">
+  <element type="0" id="1">
+    <element_caption><![CDATA[大学英语1期中考试卷]]></element_caption>
+    <is_group_text>0</is_group_text>
+  </element>
+  <element type="2" id="2227bb97d53e24ee2a03532051f1173a">
+    <section_text><![CDATA[听力]]></section_text>
+    <section_score>20</section_score>
+    <section_no>1</section_no>
+  </element>
+  <element type="3" id="fdb8b3765a004ad2825ae30fe5782f89" knowledge="">
+    <question_no>1</question_no>
+    <question_text><![CDATA[<br><p><br></p><p style="text-align:left;"><strong><em>Directions:</em></strong></p><p style="text-align:left;"><em>You will hear a short &nbsp;conversation and a question. Choose the best answer from the four choices &nbsp;marked A., B., C. and D..&nbsp;<br></em></p><p>&nbsp;Question: Where does this conversation most probably take place?</p><p><img media="audio" src="http://qlib-admin.ismartlearning.cn/lib/xoteditorv2/dialogs/xotaudio/images/audio.jpg" url="/fdb8b3765a004ad2825ae30fe5782f89/1126/AB99B575C7891372DFE2040FA4C9BC5C.mp3" limit="-1" guid="498767e9-0602-1e8b-4697-b9e108263aec"></p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[In a supermarket.]]></option>
+      <option id="B"><![CDATA[In a bookshop.]]></option>
+      <option id="C"><![CDATA[At a park.]]></option>
+      <option id="D"><![CDATA[At a bank.]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>5</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>2227bb97d53e24ee2a03532051f1173a</ref_section_id>
+    <ref_question_id>fdb8b3765a004ad2825ae30fe5782f89</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="c137ccbfef2040619152d913c149aed1" knowledge="">
+    <question_no>2</question_no>
+    <question_text><![CDATA[<br><p><br></p><p style="text-align:left;"><strong><em>Directions:</em></strong></p><p style="text-align:left;"><em>You will hear a short &nbsp;conversation and a question. Choose the best answer from the four choices &nbsp;marked A., B., C. and D.<br>Question: Why was the man late for the party?</em></p><p><img media="audio" src="http://qlib-admin.ismartlearning.cn/lib/xoteditorv2/dialogs/xotaudio/images/audio.jpg" url="/c137ccbfef2040619152d913c149aed1/1126/031E75D77A3834CA400534EC0AFEB33F.mp3" limit="-1" guid="6a2c6842-a909-2e61-3054-2cdb359af563"></p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[He didn’t know his way.]]></option>
+      <option id="B"><![CDATA[He was caught in a traffic jam.]]></option>
+      <option id="C"><![CDATA[He met an old friend on the way.]]></option>
+      <option id="D"><![CDATA[He didn’t get the right address.]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>5</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>2227bb97d53e24ee2a03532051f1173a</ref_section_id>
+    <ref_question_id>c137ccbfef2040619152d913c149aed1</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="04dde494759f4581bc53602be1d0a622" knowledge="">
+    <question_no>3</question_no>
+    <question_text><![CDATA[<br><p><br></p><p style="text-align:left;"><strong><em>Directions:</em></strong></p><p style="text-align:left;"><em>You will hear a short &nbsp;conversation and a question. Choose the best answer from the four choices &nbsp;marked A., B., C. and D.<br>Question: What does the woman think of the secretary?</em></p><p><img media="audio" src="http://qlib-admin.ismartlearning.cn/lib/xoteditorv2/dialogs/xotaudio/images/audio.jpg" url="/04dde494759f4581bc53602be1d0a622/1204/4DA8C8700646AB30FB7F21300C2461E2.mp3" limit="-1" guid="4858eae6-9105-a8bd-2f1d-fa8256b6c548"></p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[Too old.]]></option>
+      <option id="B"><![CDATA[Too strict.]]></option>
+      <option id="C"><![CDATA[Very nice.]]></option>
+      <option id="D"><![CDATA[Very quiet.]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>4</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>2227bb97d53e24ee2a03532051f1173a</ref_section_id>
+    <ref_question_id>04dde494759f4581bc53602be1d0a622</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="013b153cbff0466f80786d0d6ad50000" knowledge="">
+    <question_no>4</question_no>
+    <question_text><![CDATA[<br><p><br></p><p style="text-align:left;"><strong><em>Directions:</em></strong></p><p style="text-align:left;"><em>You will hear a short &nbsp;conversation and a question. Choose the best answer from the four choices &nbsp;marked A., B., C. and D.<br>Question: What did the man do?</em></p><p><img media="audio" src="http://qlib-admin.ismartlearning.cn/lib/xoteditorv2/dialogs/xotaudio/images/audio.jpg" url="/013b153cbff0466f80786d0d6ad50000/1204/C05F967C04BEF93019C192915CE74E58.mp3" limit="-1" guid="4030b53f-cc5c-01b2-3c9f-d64ca2c962b4"></p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[He had a class.]]></option>
+      <option id="B"><![CDATA[He accepted a task.]]></option>
+      <option id="C"><![CDATA[He broke a glass.]]></option>
+      <option id="D"><![CDATA[He took a bath.]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>4</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>2227bb97d53e24ee2a03532051f1173a</ref_section_id>
+    <ref_question_id>013b153cbff0466f80786d0d6ad50000</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="91edf6fbb9c74ef5b727268ad8a98235" knowledge="">
+    <question_no>5</question_no>
+    <question_text><![CDATA[<br><p><br></p><p style="text-align:left;"><strong><em>Directions:</em></strong></p><p style="text-align:left;"><em>You will hear a short &nbsp;conversation and a question. Choose the best answer from the four choices &nbsp;marked A., B., C. and D.<br>Question:&nbsp;What are they talking about?</em></p><p><img media="audio" src="http://qlib-admin.ismartlearning.cn/lib/xoteditorv2/dialogs/xotaudio/images/audio.jpg" url="/91edf6fbb9c74ef5b727268ad8a98235/1204/CBCF6CE57465CA375F66B9D53D1A0530.mp3" limit="-1" guid="ae52ca5b-9329-58f9-02b5-024e06281a1b"></p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[Where to have the meeting.]]></option>
+      <option id="B"><![CDATA[When to have the meeting.]]></option>
+      <option id="C"><![CDATA[Who to attend the meeting.]]></option>
+      <option id="D"><![CDATA[What to discuss at the meeting.]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>4</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>2227bb97d53e24ee2a03532051f1173a</ref_section_id>
+    <ref_question_id>91edf6fbb9c74ef5b727268ad8a98235</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="fe1e329b00ca4fcbbf58232b04a3ae4e" knowledge="">
+    <question_no>6</question_no>
+    <question_text><![CDATA[<br><p><br></p><p style="text-align:left;"><strong><em>Directions:</em></strong></p><p style="text-align:left;"><em>You will hear a short &nbsp;conversation and a question. Choose the best answer from the four choices &nbsp;marked A., B., C. and D.<br>Question:&nbsp;What are they talking about?</em></p><p><img media="audio" src="http://qlib-admin.ismartlearning.cn/lib/xoteditorv2/dialogs/xotaudio/images/audio.jpg" url="/fe1e329b00ca4fcbbf58232b04a3ae4e/1126/E4910C63E9815A3DF0E754E33FC21A22.mp3" limit="-1" guid="7c41baf9-3235-93b8-32c8-c8aa9b02b8fe"></p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[A football game.]]></option>
+      <option id="B"><![CDATA[A rock concert.]]></option>
+      <option id="C"><![CDATA[A new film.]]></option>
+      <option id="D"><![CDATA[A talk show.]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>5</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>2227bb97d53e24ee2a03532051f1173a</ref_section_id>
+    <ref_question_id>fe1e329b00ca4fcbbf58232b04a3ae4e</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="1" id="27f9d9accb9b48e9bb26f4cb27278f70">
+    <element_text><![CDATA[<p><br></p><p><br></p><p style="text-align:left;"><strong><em>Directions:</em></strong></p><p style="text-align:left;"><em>You will hear a long &nbsp;conversation and two questions. Choose the best answer from the four choices &nbsp;marked A., B., C. and D..</em></p><p><img media="audio" src="http://qlib-admin.ismartlearning.cn/lib/xoteditorv2/dialogs/xotaudio/images/audio.jpg" url="/27f9d9accb9b48e9bb26f4cb27278f70/1206/86E03FA6349CD3CB31CF24D4E0B61C72.mp3" limit="-1" guid="e72b79a2-e668-8180-a964-4e8907be5ddb"></p>]]></element_text>
+    <is_group_text>1</is_group_text>
+    <group_score>4</group_score>
+    <question_type>99</question_type>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>2227bb97d53e24ee2a03532051f1173a</ref_section_id>
+  </element>
+  <element type="3" id="0719DCB863D3624DA83B503013423AB5" knowledge="">
+    <question_no>7</question_no>
+    <question_text><![CDATA[<br><p><br></p><p style="text-align:left;"><em>Question 1.&nbsp;What is the woman asking the man to do?</em></p><p><img media="audio" src="http://qlib-admin.ismartlearning.cn/lib/xoteditorv2/dialogs/xotaudio/images/audio.jpg" url="/0719DCB863D3624DA83B503013423AB5/1206/565C52C578450B648CD949AB85FD622F.mp3" limit="-1" guid="4e6d233a-946f-b2d5-0f00-3022280362b3"></p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[To start the computer.]]></option>
+      <option id="B"><![CDATA[To choose a computer.]]></option>
+      <option id="C"><![CDATA[To buy a computer.]]></option>
+      <option id="D"><![CDATA[To connect the computer.]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>4</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>27f9d9accb9b48e9bb26f4cb27278f70</ref_section_id>
+    <ref_question_id>27f9d9accb9b48e9bb26f4cb27278f70</ref_question_id>
+    <ref_sub_id>0719DCB863D3624DA83B503013423AB5</ref_sub_id>
+  </element>
+  <element type="3" id="848CBADD7B1E038C2EFFD5FC913AB829" knowledge="">
+    <question_no>8</question_no>
+    <question_text><![CDATA[<br><p><br></p><p style="text-align:left;"><em>Question 2.&nbsp;Where can the woman find the printer?</em></p><p><img media="audio" src="http://qlib-admin.ismartlearning.cn/lib/xoteditorv2/dialogs/xotaudio/images/audio.jpg" url="/848CBADD7B1E038C2EFFD5FC913AB829/1206/061F7E8F9CD271C272B6FB2D39D4454C.mp3" limit="-1" guid="33c1c89a-83a3-f17c-caed-51a2b7192086"></p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[In the manager's office.]]></option>
+      <option id="B"><![CDATA[In the corridor.]]></option>
+      <option id="C"><![CDATA[On the desk by the window.]]></option>
+      <option id="D"><![CDATA[In the next room.]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>4</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>27f9d9accb9b48e9bb26f4cb27278f70</ref_section_id>
+    <ref_question_id>27f9d9accb9b48e9bb26f4cb27278f70</ref_question_id>
+    <ref_sub_id>848CBADD7B1E038C2EFFD5FC913AB829</ref_sub_id>
+  </element>
+  <element type="1" id="02b75ced3bd043189e519f6e8837eca2">
+    <element_text><![CDATA[<p><br></p><p><br></p><p style="text-align:left;"><strong><em>Directions:</em></strong></p><p style="text-align:left;"><em>You will hear a long &nbsp;conversation and two questions. Choose the best answer from the four choices &nbsp;marked A., B., C. and D..</em></p><p><img media="audio" src="http://qlib-admin.ismartlearning.cn/lib/xoteditorv2/dialogs/xotaudio/images/audio.jpg" url="/02b75ced3bd043189e519f6e8837eca2/1206/7DCF9E1835BDCB0EDF6274AF35C353CA.mp3" limit="-1" guid="0d7c949c-9eae-90aa-bfb2-47e0a36adb09"></p>]]></element_text>
+    <is_group_text>1</is_group_text>
+    <group_score>4</group_score>
+    <question_type>99</question_type>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>2227bb97d53e24ee2a03532051f1173a</ref_section_id>
+  </element>
+  <element type="3" id="13521A3746C03BCFDD2AA8361EC1FCD9" knowledge="">
+    <question_no>9</question_no>
+    <question_text><![CDATA[<br><p><br></p><p style="text-align:left;"><em>Question 1.&nbsp;When will Mr. Smith be back?</em></p><p><img media="audio" src="http://qlib-admin.ismartlearning.cn/lib/xoteditorv2/dialogs/xotaudio/images/audio.jpg" url="/13521A3746C03BCFDD2AA8361EC1FCD9/1206/4D20D6092D64D412246DD9416F248340.mp3" limit="-1" guid="dd0ca89f-0238-2ccc-32c8-b7fae0524aa7"></p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[Before 10.]]></option>
+      <option id="B"><![CDATA[Tomorrow.]]></option>
+      <option id="C"><![CDATA[Not until 10:30.]]></option>
+      <option id="D"><![CDATA[Next week.]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>5</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>02b75ced3bd043189e519f6e8837eca2</ref_section_id>
+    <ref_question_id>02b75ced3bd043189e519f6e8837eca2</ref_question_id>
+    <ref_sub_id>13521A3746C03BCFDD2AA8361EC1FCD9</ref_sub_id>
+  </element>
+  <element type="3" id="8078870DC30C614CFBEDB2006B7A718B" knowledge="">
+    <question_no>10</question_no>
+    <question_text><![CDATA[<br><p><br></p><p style="text-align:left;"><em>Question 2.&nbsp;What message does the man leave?</em></p><p><img media="audio" src="http://qlib-admin.ismartlearning.cn/lib/xoteditorv2/dialogs/xotaudio/images/audio.jpg" url="/8078870DC30C614CFBEDB2006B7A718B/1206/9BC50914DE40827E9241A6788D2FB9D9.mp3" limit="-1" guid="048abee2-dad8-973f-ea0a-c7276392cf18"></p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[Ask Mr. Smith to meet him at the airport.]]></option>
+      <option id="B"><![CDATA[Tell Mr. Smith the meeting has been cancelled.]]></option>
+      <option id="C"><![CDATA[Tell Mr. Smith he has left for London.]]></option>
+      <option id="D"><![CDATA[Ask Mr. Smith to call him.]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>5</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>02b75ced3bd043189e519f6e8837eca2</ref_section_id>
+    <ref_question_id>02b75ced3bd043189e519f6e8837eca2</ref_question_id>
+    <ref_sub_id>8078870DC30C614CFBEDB2006B7A718B</ref_sub_id>
+  </element>
+  <element type="2" id="f86a2e480acc6bc2900ed401ed10be9d">
+    <section_text><![CDATA[单项选择&nbsp;]]></section_text>
+    <section_score>40</section_score>
+    <section_no>2</section_no>
+  </element>
+  <element type="3" id="72868bf72e19edadba4a1d7503924771" knowledge="">
+    <question_no>11</question_no>
+    <question_text><![CDATA[<p>This is a busy and dangerous road and we need &nbsp;police there to _____ the traffic.</p><p><br></p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[drive]]></option>
+      <option id="B"><![CDATA[inform]]></option>
+      <option id="C"><![CDATA[ride]]></option>
+      <option id="D"><![CDATA[control]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>72868bf72e19edadba4a1d7503924771</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="6c6ac7d3c6ac3376c9a26df932907049" knowledge="">
+    <question_no>12</question_no>
+    <question_text><![CDATA[<p>I could have performed on stage if I had more___.</p><p><br></p><p><br></p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[relief]]></option>
+      <option id="B"><![CDATA[confidence]]></option>
+      <option id="C"><![CDATA[belief]]></option>
+      <option id="D"><![CDATA[trust]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>6c6ac7d3c6ac3376c9a26df932907049</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="f2f31ca2f7fde84a1e9549aab30b044c" knowledge="">
+    <question_no>13</question_no>
+    <question_text><![CDATA[The plate was so _____ that I was afraid to wash it.]]></question_text>
+    <options>
+      <option id="A"><![CDATA[various]]></option>
+      <option id="B"><![CDATA[beautiful]]></option>
+      <option id="C"><![CDATA[rough]]></option>
+      <option id="D"><![CDATA[delicate]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>f2f31ca2f7fde84a1e9549aab30b044c</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="5e6acb0151b63ba8c6f033868fd24da3" knowledge="">
+    <question_no>14</question_no>
+    <question_text><![CDATA[You must be very tired after such a long race, you may _____ my &nbsp;shoulders.]]></question_text>
+    <options>
+      <option id="A"><![CDATA[turn to]]></option>
+      <option id="B"><![CDATA[head out]]></option>
+      <option id="C"><![CDATA[lean on]]></option>
+      <option id="D"><![CDATA[take to]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>5e6acb0151b63ba8c6f033868fd24da3</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="25ad4dceb52fb4ff77479b62c30570af" knowledge="">
+    <question_no>15</question_no>
+    <question_text><![CDATA[The___you form here will be with you for the rest of your life.]]></question_text>
+    <options>
+      <option id="A"><![CDATA[habits]]></option>
+      <option id="B"><![CDATA[dream]]></option>
+      <option id="C"><![CDATA[day]]></option>
+      <option id="D"><![CDATA[time]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>25ad4dceb52fb4ff77479b62c30570af</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="0ddd37feb5dc0e0bda1b041251ec666c" knowledge="">
+    <question_no>16</question_no>
+    <question_text><![CDATA[Halle was very _____, waiting for the doctor at the gate.]]></question_text>
+    <options>
+      <option id="A"><![CDATA[possible]]></option>
+      <option id="B"><![CDATA[former]]></option>
+      <option id="C"><![CDATA[patient]]></option>
+      <option id="D"><![CDATA[likely]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>0ddd37feb5dc0e0bda1b041251ec666c</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="f158f57610f8fbebf6b3b8473e8634ac" knowledge="">
+    <question_no>17</question_no>
+    <question_text><![CDATA[He seems quite unable to give up his bad _____.]]></question_text>
+    <options>
+      <option id="A"><![CDATA[habits]]></option>
+      <option id="B"><![CDATA[customs]]></option>
+      <option id="C"><![CDATA[activities]]></option>
+      <option id="D"><![CDATA[methods]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>f158f57610f8fbebf6b3b8473e8634ac</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="f5658e38a32b5ab377cbd670d08fd48b" knowledge="">
+    <question_no>18</question_no>
+    <question_text><![CDATA[Soft drink sales in this city have _____ by 8% compared with last &nbsp;year.]]></question_text>
+    <options>
+      <option id="A"><![CDATA[picked]]></option>
+      <option id="B"><![CDATA[moved]]></option>
+      <option id="C"><![CDATA[increased]]></option>
+      <option id="D"><![CDATA[pushed]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>f5658e38a32b5ab377cbd670d08fd48b</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="57202025c0b740baa4bbc8f99f26a915" knowledge="">
+    <question_no>19</question_no>
+    <question_text><![CDATA[<p>Conversational&nbsp;competence&nbsp;might be the single most&nbsp;___&nbsp;skill we fail to teach students</p><p></p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[overlook]]></option>
+      <option id="B"><![CDATA[overlooked]]></option>
+      <option id="C"><![CDATA[looked]]></option>
+      <option id="D"><![CDATA[downloaded]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>57202025c0b740baa4bbc8f99f26a915</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="4742b777c823c6e0c1cc55916c33d2a6" knowledge="">
+    <question_no>20</question_no>
+    <question_text><![CDATA[The mountain-climbing _____ &nbsp;to be the most difficult one in our journey.]]></question_text>
+    <options>
+      <option id="A"><![CDATA[put out]]></option>
+      <option id="B"><![CDATA[made up]]></option>
+      <option id="C"><![CDATA[put up]]></option>
+      <option id="D"><![CDATA[turned out]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>4742b777c823c6e0c1cc55916c33d2a6</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="1704494931e882bb8a4b0f2d160b6cb8" knowledge="">
+    <question_no>21</question_no>
+    <question_text><![CDATA[&nbsp;Freshmen at most universities ________ peer groups because they are completely new to the college environment.]]></question_text>
+    <options>
+      <option id="A"><![CDATA[lean heavily on]]></option>
+      <option id="B"><![CDATA[rain heavily]]></option>
+      <option id="C"><![CDATA[A.&nbsp;smoke heavily]]></option>
+      <option id="D"><![CDATA[weigh heavily]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>1704494931e882bb8a4b0f2d160b6cb8</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="fad0d9c17420acac660831ac4bf5a57f" knowledge="">
+    <question_no>22</question_no>
+    <question_text><![CDATA[What happens in the first year to a new college student is usually __________ for their future study and life.]]></question_text>
+    <options>
+      <option id="A"><![CDATA[A.&nbsp;completely invisible]]></option>
+      <option id="B"><![CDATA[A.&nbsp;completely random]]></option>
+      <option id="C"><![CDATA[A.&nbsp;vitally important]]></option>
+      <option id="D"><![CDATA[A.&nbsp;extremely lonely]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>fad0d9c17420acac660831ac4bf5a57f</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="28bc8fc85495a7e3d998ffe4df82b34f" knowledge="">
+    <question_no>23</question_no>
+    <question_text><![CDATA[&nbsp;His friends helped a lot when he joined the army and failed to _______to care for his parents.]]></question_text>
+    <options>
+      <option id="A"><![CDATA[carry the obligation]]></option>
+      <option id="B"><![CDATA[have the obligation]]></option>
+      <option id="C"><![CDATA[meet the obligation]]></option>
+      <option id="D"><![CDATA[feel the obligation]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>28bc8fc85495a7e3d998ffe4df82b34f</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="0fef5cbad42ca5030df9e69f42c01236" knowledge="">
+    <question_no>24</question_no>
+    <question_text><![CDATA[&nbsp;___________between classmates are based on mutual understanding and respect.]]></question_text>
+    <options>
+      <option id="A"><![CDATA[&nbsp;Failing relationships]]></option>
+      <option id="B"><![CDATA[Close relationships]]></option>
+      <option id="C"><![CDATA[&nbsp;Pleasurable relationships]]></option>
+      <option id="D"><![CDATA[Bad relationships]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>0fef5cbad42ca5030df9e69f42c01236</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="f9f128c3ea3b4b9da5b775b1c39e95f4" knowledge="">
+    <question_no>25</question_no>
+    <question_text><![CDATA[<p style="text-align: left;">Can you help me to _____ a sales plan in that area?<br></p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[set up]]></option>
+      <option id="B"><![CDATA[give in]]></option>
+      <option id="C"><![CDATA[put on]]></option>
+      <option id="D"><![CDATA[work out]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>4</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>f9f128c3ea3b4b9da5b775b1c39e95f4</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="58fb27b1d22d250c870b344b5c8b570c" knowledge="">
+    <question_no>26</question_no>
+    <question_text><![CDATA[&nbsp;Researchers are worried that youngsters may __________ to socially interact after the overuse of digital devices.]]></question_text>
+    <options>
+      <option id="A"><![CDATA[demonstrate the ability]]></option>
+      <option id="B"><![CDATA[develop the ability]]></option>
+      <option id="C"><![CDATA[lose the ability]]></option>
+      <option id="D"><![CDATA[have the ability]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>58fb27b1d22d250c870b344b5c8b570c</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="abf53859e502607a632de81adc18e580" knowledge="">
+    <question_no>27</question_no>
+    <question_text><![CDATA[To help her go through the sorrow, he ______ by asking questions about other matters.]]></question_text>
+    <options>
+      <option id="A"><![CDATA[called her attention]]></option>
+      <option id="B"><![CDATA[drew her attention]]></option>
+      <option id="C"><![CDATA[distracted her attention]]></option>
+      <option id="D"><![CDATA[paid her attention]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>abf53859e502607a632de81adc18e580</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="f43b5e6c901542ac8b8ca7c0ba929c47" knowledge="">
+    <question_no>28</question_no>
+    <question_text><![CDATA[<p style="text-align: left;">I sometimes _____ the new words in the dictionary to find out &nbsp;their exact meaning.<br></p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[put down]]></option>
+      <option id="B"><![CDATA[look up]]></option>
+      <option id="C"><![CDATA[give off]]></option>
+      <option id="D"><![CDATA[take over]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>4</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>f43b5e6c901542ac8b8ca7c0ba929c47</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="f73897df9f3a48d2b2ddc4c4f4ae11e2" knowledge="">
+    <question_no>29</question_no>
+    <question_text><![CDATA[<p style="text-align: left;">No sooner had I got to the airport than the plane _____.<br></p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[put on]]></option>
+      <option id="B"><![CDATA[got over]]></option>
+      <option id="C"><![CDATA[took off]]></option>
+      <option id="D"><![CDATA[turn out]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>4</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>f73897df9f3a48d2b2ddc4c4f4ae11e2</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="3" id="f8760136e70f40d5b68c4975ce7fcbf3" knowledge="">
+    <question_no>30</question_no>
+    <question_text><![CDATA[<p style="text-align: left;">_____ writing a letter to the manager, he decided to talk to him &nbsp;in person.</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[Instead of]]></option>
+      <option id="B"><![CDATA[Because of]]></option>
+      <option id="C"><![CDATA[As for]]></option>
+      <option id="D"><![CDATA[Due to]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>4</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>f86a2e480acc6bc2900ed401ed10be9d</ref_section_id>
+    <ref_question_id>f8760136e70f40d5b68c4975ce7fcbf3</ref_question_id>
+    <ref_sub_id/>
+  </element>
+  <element type="2" id="8bb40006f2100a307d3b5aed8a3dc23f">
+    <section_text><![CDATA[完形填空]]></section_text>
+    <section_score>20</section_score>
+    <section_no>3</section_no>
+  </element>
+  <element type="1" id="42BCF82BB80B8B92D85E708B344C3422">
+    <element_text><![CDATA[<p><strong><em>Directions:</em></strong></p><p style="text-align:left;"><em>For each blank there are four choices marked A., B., C. and D.. You should choose the ONE that best fits into the passage.</em></p><p style="text-align:left;">&nbsp;</p><p style="text-align:left;">Even kids can have health problems. Some problems are serious and some are not so serious. Do you want to be a healthy kid? Do you (31) _____ how to be a healthy kid? Here are some (32) _____ you should know.</p><p style="text-align:left;">First, eat different foods, especially fruit (33) _____ vegetables. You may have your (34) _____ food, but you should eat something different. If you eat different foods, you can (35) _____ more nutrients (营养) your body needs.</p><p style="text-align:left;">Second, drink water and milk as (36) _____ as possible. When you’re really (37) _____, water is the No. 1 choice. Milk is a great drink that can (38) _____ you more calcium (钙) your body needs to make bones strong.</p><p style="text-align:left;">Third, listen to your body. How do you feel when you are full? When you are eating, notice how your (39) _____ feels and when your stomach feels comfortably full. Eating (40) _____ will not make you feel comfortable.</p><p style="text-align: left;">Follow these rules and you can be a healthy kid.</p>]]></element_text>
+    <is_group_text>1</is_group_text>
+    <group_score>20</group_score>
+    <question_type>99</question_type>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>8bb40006f2100a307d3b5aed8a3dc23f</ref_section_id>
+  </element>
+  <element type="3" id="449AA52E91F4549841B9229269D039D6" knowledge="">
+    <question_no>31</question_no>
+    <question_text><![CDATA[<p style="text-align:left;">&nbsp;</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[have]]></option>
+      <option id="B"><![CDATA[know]]></option>
+      <option id="C"><![CDATA[get]]></option>
+      <option id="D"><![CDATA[keep]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>2</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>42BCF82BB80B8B92D85E708B344C3422</ref_section_id>
+    <ref_question_id>42BCF82BB80B8B92D85E708B344C3422</ref_question_id>
+    <ref_sub_id>449AA52E91F4549841B9229269D039D6</ref_sub_id>
+  </element>
+  <element type="3" id="CFA9FA263C08B60517A453AF1F7A1500" knowledge="">
+    <question_no>32</question_no>
+    <question_text><![CDATA[<p style="text-align:left;">&nbsp;</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[rules]]></option>
+      <option id="B"><![CDATA[questions]]></option>
+      <option id="C"><![CDATA[lines]]></option>
+      <option id="D"><![CDATA[roads]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>2</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>42BCF82BB80B8B92D85E708B344C3422</ref_section_id>
+    <ref_question_id>42BCF82BB80B8B92D85E708B344C3422</ref_question_id>
+    <ref_sub_id>CFA9FA263C08B60517A453AF1F7A1500</ref_sub_id>
+  </element>
+  <element type="3" id="8550C49898539F2F1A81B482E36F8A3A" knowledge="">
+    <question_no>33</question_no>
+    <question_text><![CDATA[<p style="text-align:left;">&nbsp;</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[or]]></option>
+      <option id="B"><![CDATA[and]]></option>
+      <option id="C"><![CDATA[but]]></option>
+      <option id="D"><![CDATA[while]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>2</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>42BCF82BB80B8B92D85E708B344C3422</ref_section_id>
+    <ref_question_id>42BCF82BB80B8B92D85E708B344C3422</ref_question_id>
+    <ref_sub_id>8550C49898539F2F1A81B482E36F8A3A</ref_sub_id>
+  </element>
+  <element type="3" id="E4A528B9CDA79623D6355D719E9D380F" knowledge="">
+    <question_no>34</question_no>
+    <question_text><![CDATA[<p style="text-align:left;">&nbsp;</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[best]]></option>
+      <option id="B"><![CDATA[worst]]></option>
+      <option id="C"><![CDATA[favorite]]></option>
+      <option id="D"><![CDATA[own]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>2</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>42BCF82BB80B8B92D85E708B344C3422</ref_section_id>
+    <ref_question_id>42BCF82BB80B8B92D85E708B344C3422</ref_question_id>
+    <ref_sub_id>E4A528B9CDA79623D6355D719E9D380F</ref_sub_id>
+  </element>
+  <element type="3" id="6AF609990FBE68337CE2BD371E974AED" knowledge="">
+    <question_no>35</question_no>
+    <question_text><![CDATA[<p style="text-align:left;">&nbsp;</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[take]]></option>
+      <option id="B"><![CDATA[get]]></option>
+      <option id="C"><![CDATA[buy]]></option>
+      <option id="D"><![CDATA[bring]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>2</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>42BCF82BB80B8B92D85E708B344C3422</ref_section_id>
+    <ref_question_id>42BCF82BB80B8B92D85E708B344C3422</ref_question_id>
+    <ref_sub_id>6AF609990FBE68337CE2BD371E974AED</ref_sub_id>
+  </element>
+  <element type="3" id="E69E13ECF2AA4E957D2997B465DC58E9" knowledge="">
+    <question_no>36</question_no>
+    <question_text><![CDATA[<p style="text-align:left;">&nbsp;</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[often]]></option>
+      <option id="B"><![CDATA[soon]]></option>
+      <option id="C"><![CDATA[always]]></option>
+      <option id="D"><![CDATA[early]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>2</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>42BCF82BB80B8B92D85E708B344C3422</ref_section_id>
+    <ref_question_id>42BCF82BB80B8B92D85E708B344C3422</ref_question_id>
+    <ref_sub_id>E69E13ECF2AA4E957D2997B465DC58E9</ref_sub_id>
+  </element>
+  <element type="3" id="8BE0D86EB4F21831BE2B8CF55BF8B92B" knowledge="">
+    <question_no>37</question_no>
+    <question_text><![CDATA[<p style="text-align:left;">&nbsp;</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[hungry]]></option>
+      <option id="B"><![CDATA[full]]></option>
+      <option id="C"><![CDATA[tired]]></option>
+      <option id="D"><![CDATA[thirsty]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>2</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>42BCF82BB80B8B92D85E708B344C3422</ref_section_id>
+    <ref_question_id>42BCF82BB80B8B92D85E708B344C3422</ref_question_id>
+    <ref_sub_id>8BE0D86EB4F21831BE2B8CF55BF8B92B</ref_sub_id>
+  </element>
+  <element type="3" id="6CD28A1A84862ABBC2E2E346ED08C791" knowledge="">
+    <question_no>38</question_no>
+    <question_text><![CDATA[<p style="text-align:left;">&nbsp;</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[take]]></option>
+      <option id="B"><![CDATA[make]]></option>
+      <option id="C"><![CDATA[use]]></option>
+      <option id="D"><![CDATA[give]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>2</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>42BCF82BB80B8B92D85E708B344C3422</ref_section_id>
+    <ref_question_id>42BCF82BB80B8B92D85E708B344C3422</ref_question_id>
+    <ref_sub_id>6CD28A1A84862ABBC2E2E346ED08C791</ref_sub_id>
+  </element>
+  <element type="3" id="DDD2E04B7E3871C329524E0C781B7BC5" knowledge="">
+    <question_no>39</question_no>
+    <question_text><![CDATA[<p style="text-align:left;">&nbsp;</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[mouth]]></option>
+      <option id="B"><![CDATA[head]]></option>
+      <option id="C"><![CDATA[hand]]></option>
+      <option id="D"><![CDATA[body]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>2</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>42BCF82BB80B8B92D85E708B344C3422</ref_section_id>
+    <ref_question_id>42BCF82BB80B8B92D85E708B344C3422</ref_question_id>
+    <ref_sub_id>DDD2E04B7E3871C329524E0C781B7BC5</ref_sub_id>
+  </element>
+  <element type="3" id="FE204877B96A883FD27F65B030D65107" knowledge="">
+    <question_no>40</question_no>
+    <question_text><![CDATA[<p style="text-align:left;">&nbsp;</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[too much]]></option>
+      <option id="B"><![CDATA[too many]]></option>
+      <option id="C"><![CDATA[too often]]></option>
+      <option id="D"><![CDATA[much too]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>2</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>42BCF82BB80B8B92D85E708B344C3422</ref_section_id>
+    <ref_question_id>42BCF82BB80B8B92D85E708B344C3422</ref_question_id>
+    <ref_sub_id>FE204877B96A883FD27F65B030D65107</ref_sub_id>
+  </element>
+  <element type="2" id="c1812d9da0c69f2eaff11863a780b407">
+    <section_text><![CDATA[阅读理解]]></section_text>
+    <section_score>20</section_score>
+    <section_no>4</section_no>
+  </element>
+  <element type="1" id="d9baa131807241ae8209197d6436c733">
+    <element_text><![CDATA[<p style="text-align:left"><b><i>Directions:</i></b></p>  <p style="text-align:left"><i>Read the passage followed  by some questions or unfinished statements. Choose the best answer from the  four choices marked A., B., C. and D..</i></p>  <p style="text-align:left">&nbsp;</p>  <p style="text-align:left">Jenny was worried. She had a job interview, and she wanted to look  good. She decided to get some new clothes. The store owner helped Jenny find  a suit. But when she left the store, she didn't pay for the suit!</p>  <p style="text-align:left">How could Jenny do this? She was in a special store called Career  Closet in San Jose, California. Pallas started this nonprofit store to help  women. She knew that many women don't find jobs because they don't have the  right clothes for a job interview.</p>  <p style="text-align:left">Pallas started the store in 1992. Working women donate (捐赠) most of the clothes to the  store. This makes it possible for the customers at Career Closet to get clothes  for free.</p>  <p style="text-align:left">Career Closet has helped 2 500 San Jose women. But clothes aren't  the only things women get at the store. They also get confidence. Jenny went  to Career Closet and got a jacket, a shirt, and a blouse (短外套). "The whole day made me  feel special," she said. Jenny was a success at her interview, and she  got the job. One reason she got it was because she was wearing the right  clothes for the workplace.</p>]]></element_text>
+    <is_group_text>1</is_group_text>
+    <group_score>10</group_score>
+    <question_type>99</question_type>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>c1812d9da0c69f2eaff11863a780b407</ref_section_id>
+  </element>
+  <element type="3" id="054c1900550f4f86957f07e075fd7b3b" knowledge="">
+    <question_no>39</question_no>
+    <question_text><![CDATA[<p style="text-align:left">Jenny decided to get some new clothes because she wanted to _____.</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[look more beautiful in new clothes]]></option>
+      <option id="B"><![CDATA[give a good impression at a job interview]]></option>
+      <option id="C"><![CDATA[wear them for her first day at work]]></option>
+      <option id="D"><![CDATA[become the owner of the store Career Closet]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>d9baa131807241ae8209197d6436c733</ref_section_id>
+    <ref_question_id>d9baa131807241ae8209197d6436c733</ref_question_id>
+    <ref_sub_id>054c1900550f4f86957f07e075fd7b3b</ref_sub_id>
+  </element>
+  <element type="3" id="3ba5f494963b4b3ea7752a2819fefd9c" knowledge="">
+    <question_no>40</question_no>
+    <question_text><![CDATA[<p style="text-align:left">Pallas' purpose of opening the store is _____.</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[to help the poor women with their job interview]]></option>
+      <option id="B"><![CDATA[to help the working women with their life]]></option>
+      <option id="C"><![CDATA[to make some profits for women]]></option>
+      <option id="D"><![CDATA[to provide a workplace for women]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>d9baa131807241ae8209197d6436c733</ref_section_id>
+    <ref_question_id>d9baa131807241ae8209197d6436c733</ref_question_id>
+    <ref_sub_id>3ba5f494963b4b3ea7752a2819fefd9c</ref_sub_id>
+  </element>
+  <element type="3" id="62418237dd58427893e6b81d0a29dd87" knowledge="">
+    <question_no>41</question_no>
+    <question_text><![CDATA[<p style="text-align:left">Where do most of those free clothes come from?</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[Other clothing shops.]]></option>
+      <option id="B"><![CDATA[Working women.]]></option>
+      <option id="C"><![CDATA[The store owner, Pallas.]]></option>
+      <option id="D"><![CDATA[The woman out of employment.]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>d9baa131807241ae8209197d6436c733</ref_section_id>
+    <ref_question_id>d9baa131807241ae8209197d6436c733</ref_question_id>
+    <ref_sub_id>62418237dd58427893e6b81d0a29dd87</ref_sub_id>
+  </element>
+  <element type="3" id="d89d869b49f548b4a778c129840ee657" knowledge="">
+    <question_no>42</question_no>
+    <question_text><![CDATA[<p style="text-align:left">Apart from clothes, women also can get _____ from the store.</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[success]]></option>
+      <option id="B"><![CDATA[a job]]></option>
+      <option id="C"><![CDATA[support]]></option>
+      <option id="D"><![CDATA[confidence]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>d9baa131807241ae8209197d6436c733</ref_section_id>
+    <ref_question_id>d9baa131807241ae8209197d6436c733</ref_question_id>
+    <ref_sub_id>d89d869b49f548b4a778c129840ee657</ref_sub_id>
+  </element>
+  <element type="3" id="317eef54ab504c0892014db47634c26c" knowledge="">
+    <question_no>43</question_no>
+    <question_text><![CDATA[<p style="text-align:left">It is indicated in this passage that _____.</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[but for Career Closet, Jenny couldn't have got her job]]></option>
+      <option id="B"><![CDATA[all the customers of Career Closet are working women]]></option>
+      <option id="C"><![CDATA[dressing properly is very important for job interview]]></option>
+      <option id="D"><![CDATA[Pallas is a good manager of a women clothing store]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>d9baa131807241ae8209197d6436c733</ref_section_id>
+    <ref_question_id>d9baa131807241ae8209197d6436c733</ref_question_id>
+    <ref_sub_id>317eef54ab504c0892014db47634c26c</ref_sub_id>
+  </element>
+  <element type="1" id="e690d530d92e4631aed41797ea939cd5">
+    <element_text><![CDATA[<p style="text-align:left"><b><i>Directions:</i></b></p>  <p style="text-align:left"><i>Read the passage followed  by some questions or unfinished statements. Choose the best answer from the  four choices marked A., B., C. and D..</i></p>  <p style="text-align:left">&nbsp;</p>  <p style="text-align:left">About 70 million Americans are trying to lose weight. That is  almost 1 out of every 3 people in the United States. Some people are on a  diet (饮食). This  means they eat less of certain foods, especially fats and sugars. Other  people exercise with special equipment, take medicine, or even have  operations. Losing weight is hard work, and it can also cost a lot of money.  So why so many people in the United States want to lose weight?</p>  <p style="text-align:left">Many people in the United States worry about not looking young and  pleasant. For many people, looking good means being thin. Other people worry  about their health. Many doctors say being overweight (超重) is not healthy. But are  Americans really fat? Almost 30 million people in America weight at least 20  percent more than their proper weight. In fact, the United States is the most  overweight country in the world.</p>]]></element_text>
+    <is_group_text>1</is_group_text>
+    <group_score>10</group_score>
+    <question_type>99</question_type>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>c1812d9da0c69f2eaff11863a780b407</ref_section_id>
+  </element>
+  <element type="3" id="3ecb5a26167940ff9b33b6fba85e01e4" knowledge="">
+    <question_no>44</question_no>
+    <question_text><![CDATA[<p style="text-align:left">So many people in the United States overweigh because they _____.</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[eat less of certain food]]></option>
+      <option id="B"><![CDATA[take much exercise]]></option>
+      <option id="C"><![CDATA[take more medicine]]></option>
+      <option id="D"><![CDATA[eat much of fats and sugar]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>e690d530d92e4631aed41797ea939cd5</ref_section_id>
+    <ref_question_id>e690d530d92e4631aed41797ea939cd5</ref_question_id>
+    <ref_sub_id>3ecb5a26167940ff9b33b6fba85e01e4</ref_sub_id>
+  </element>
+  <element type="3" id="ad00bf8a43014593968c2419f08cb62b" knowledge="">
+    <question_no>45</question_no>
+    <question_text><![CDATA[<p style="text-align:left">If some people really want to lose their weight, they may _____.</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[spend a lot of much money]]></option>
+      <option id="B"><![CDATA[exercise with special equipment]]></option>
+      <option id="C"><![CDATA[have operations]]></option>
+      <option id="D"><![CDATA[take medicine]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>e690d530d92e4631aed41797ea939cd5</ref_section_id>
+    <ref_question_id>e690d530d92e4631aed41797ea939cd5</ref_question_id>
+    <ref_sub_id>ad00bf8a43014593968c2419f08cb62b</ref_sub_id>
+  </element>
+  <element type="3" id="e164ba6c90ac4e39866ea3e02fb27542" knowledge="">
+    <question_no>46</question_no>
+    <question_text><![CDATA[<p style="text-align:left">The purpose of losing weight for some people is _____.</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[to look richer]]></option>
+      <option id="B"><![CDATA[to look young and healthy]]></option>
+      <option id="C"><![CDATA[to look thinner]]></option>
+      <option id="D"><![CDATA[to look pleasant and happy]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>e690d530d92e4631aed41797ea939cd5</ref_section_id>
+    <ref_question_id>e690d530d92e4631aed41797ea939cd5</ref_question_id>
+    <ref_sub_id>e164ba6c90ac4e39866ea3e02fb27542</ref_sub_id>
+  </element>
+  <element type="3" id="9b9bac8b5c824cd1b36b86e67293efd1" knowledge="">
+    <question_no>47</question_no>
+    <question_text><![CDATA[<p style="text-align:left">Being overweight appears to be _____.</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[healthy]]></option>
+      <option id="B"><![CDATA[strong]]></option>
+      <option id="C"><![CDATA[pleasant]]></option>
+      <option id="D"><![CDATA[dangerous]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>e690d530d92e4631aed41797ea939cd5</ref_section_id>
+    <ref_question_id>e690d530d92e4631aed41797ea939cd5</ref_question_id>
+    <ref_sub_id>9b9bac8b5c824cd1b36b86e67293efd1</ref_sub_id>
+  </element>
+  <element type="3" id="d76d11c5b6c140a981b144de48d449bb" knowledge="">
+    <question_no>48</question_no>
+    <question_text><![CDATA[<p style="text-align:left">What can be concluded from the passage?</p>]]></question_text>
+    <options>
+      <option id="A"><![CDATA[Operation is the best way to lose weight.]]></option>
+      <option id="B"><![CDATA[Being on a diet is a safe way of losing weight.]]></option>
+      <option id="C"><![CDATA[There is not a sure way of losing weight.]]></option>
+      <option id="D"><![CDATA[Many people think too much of their looking.]]></option>
+    </options>
+    <question_score>2</question_score>
+    <question_type>1</question_type>
+    <question_kind>1</question_kind>
+    <knowledge><![CDATA[]]></knowledge>
+    <difficulty>1</difficulty>
+    <attachment><![CDATA[]]></attachment>
+    <ref_section_id>e690d530d92e4631aed41797ea939cd5</ref_section_id>
+    <ref_question_id>e690d530d92e4631aed41797ea939cd5</ref_question_id>
+    <ref_sub_id>d76d11c5b6c140a981b144de48d449bb</ref_sub_id>
+  </element>
+</elements>
